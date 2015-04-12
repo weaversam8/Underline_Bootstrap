@@ -1,13 +1,8 @@
 # [Underline_Bootstrap](http://github.com/weaversam8/Underline_Bootstrap)
-![Bower version](https://img.shields.io/bower/v/bootstrap.svg?style=flat)
-[![npm version](https://img.shields.io/npm/v/bootstrap.svg?style=flat)](https://www.npmjs.com/package/bootstrap)
-[![Build Status](https://img.shields.io/travis/twbs/bootstrap/master.svg?style=flat)](https://travis-ci.org/twbs/bootstrap)
-[![devDependency Status](https://img.shields.io/david/dev/twbs/bootstrap.svg?style=flat)](https://david-dm.org/twbs/bootstrap#info=devDependencies)
-[![Selenium Test Status](https://saucelabs.com/browser-matrix/bootstrap.svg)](https://saucelabs.com/u/bootstrap)
 
 Underline_Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, based of the original Bootstrap created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thornton](https://twitter.com/fat), and maintained by the [core team](https://github.com/orgs/twbs/people) with the massive support and involvement of the community. Underline_Bootstrap was created by [Samuel Weaver](https://github.com/weaversam8).
 
-The remaining content below here is from the original Bootstrap README.md:
+The remaining content below here is from the original Bootstrap README.md, as this is simply a style modification fork of the original Bootstrap 3.3.4:
 
 To get started, check out <http://getbootstrap.com>!
 
